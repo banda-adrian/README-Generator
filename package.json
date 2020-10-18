@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/banda-adrian/READMEGenerator/issues"
   },
-  "homepage": "https://github.com/banda-adrian/READMEGenerator#readme"
+  "homepage": "https://github.com/banda-adrian/READMEGenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "requirer": "0.0.4"
+  }
 }

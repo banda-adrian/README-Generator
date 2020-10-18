@@ -3,3 +3,6 @@
 
 # Ignores node_modules folder
 node_modules
+
+# Ignores generated README
+READMEexample.md
