@@ -27,4 +27,4 @@ CLI
 If you want to contact me you can reach me at 5205bda@gmail.com.
 
 ## Links
-[Github](https://github.com/banda-adrian)
+[Github Profile](https://github.com/banda-adrian)
